@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/debugValue-hook/static/css/main.e6c13ad2.css",
+    "main.js": "/debugValue-hook/static/js/main.1ede774e.js",
+    "index.html": "/debugValue-hook/index.html",
+    "main.e6c13ad2.css.map": "/debugValue-hook/static/css/main.e6c13ad2.css.map",
+    "main.1ede774e.js.map": "/debugValue-hook/static/js/main.1ede774e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1ede774e.js"
+  ]
+}
